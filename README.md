@@ -1,7 +1,12 @@
-WS2022_Lithium_Ion_Battery_DDE_I
+Lithium_Ion_Battery
 ==============================
 
 This is a project for the classification of the Crystal System of Lithium-Ion Batteries
+
+This is the link for the dataset: https://www.kaggle.com/datasets/divyansh22/crystal-system-properties-for-liion-batteries
+https://www.kaggle.com/datasets/divyansh22/crystal-system-properties-for-liion-batteries/download?datasetVersionNumber=1
+
+In the folder "notebooks" can be found the jupyter notebook with the project. 
 
 Project Organization
 ------------
